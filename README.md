@@ -1,32 +1,29 @@
 ## Olá 👋, Eu sou o Fernando Rosa!
 
-
-
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2spvnepyxjwyv1geq7mh.gif" width="500px"/>
   
+
+Oi, tudo bem?
+
+Sou apaixonado por tecnologia e com mais de 12 anos de experiência na área. Desenvolvi habilidades em suporte técnico, redes lógicas e gestão de infraestrutura. Recentemente, estou investindo na transição para o desenvolvimento de software, com foco em Back-End Java.
+<br/>
+<br/>
+
+
 ###  Um pouco mais sobre mim:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 🔭 &nbsp; Atualmente, participo do programa Desenvolva+, em parceria com o Mercado Livre, que oferece uma formação intensiva em Java Back-End. 
+- 🌱 &nbsp; Estou aprofundando conhecimentos em Programação Orientada a Objetos, Desenvolvimento Web, Testes Automatizados e técnicas modernas de programação. 
+- 👨🏻‍💻 &nbsp; Formação em Análise e Desenvolvimento de Software, pós-graduação em Design de Produtos Digitais (UX/UI) e Desenvolvimento de jogos.
+- 📍 &nbsp; Baseado em Barueri-SP
 
 <br>
 
 ### 🔨 Linguagens e Ferramentas:
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="https://github.com/Fernandorosa86">
+    <img src="https://skillicons.dev/icons?i=java,html,css,javascript,git,github,figma,vscode,idea" />
   </a>
 </p>
 
@@ -34,9 +31,28 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 
-#### 📫 How to reach me:
-  
- &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/pr4urhyuf4)  &nbsp;   &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/fernandorosa86/)  &nbsp;  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/fernando.rosa86/)  &nbsp; <a href="mailto:f.rosaoliveira@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+
+#### 📫 Como me encontrar:
+
+
+<p align="left">
+  <a href="https://discord.gg/pr4urhyuf4"target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" width="35">
+  </a>&nbsp
+  <a href="https://www.linkedin.com/in/fernandorosa86/"target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Linkedin" width="35">
+  </a>&nbsp
+  <a href="https://www.instagram.com/fernando.rosa86/"target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" width="35">
+  </a>&nbsp
+  <a href="mailto:f.rosaoliveira@gmail.com"target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" width="35">
+  </a>
+</p>
+
+<br>
+
 
 </a>
 
